@@ -2,12 +2,19 @@
 
 <!--### My name is Ian McLerran, and I'm glad you're here!-->
 
-Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like!
+_Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like!_
+
+`I'm currently working on:`<br>
+[![Repo](https://img.shields.io/badge/Repo-Projectile%20Inferno-orange?style=flat)](https://github.com/imclerran/projectile-inferno)<br>
+`Find my Resume here:`<br>
+[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
+
+<br>
 
 ![GitHub followers](https://img.shields.io/github/followers/imclerran?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/imclerran?style=social)
 
-[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
+
 
 <!--
 **imclerran/imclerran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
 -->
