@@ -6,7 +6,7 @@ _Welcome to my GitHub page. Feel free to browse around, and fork around too if y
 
 `💻 I'm currently working on:`<br>
 [![Repo](https://img.shields.io/badge/Repo-Projectile%20Inferno-orange?style=flat)](https://github.com/imclerran/projectile-inferno)
-![GitHub last commit](https://img.shields.io/github/last-commit/imclerran/projectile-inferno)
+[![GitHub last commit](https://img.shields.io/github/last-commit/imclerran/projectile-inferno)](https://github.com/imclerran/projectile-inferno)
 <br>
 `📝 Find my Resume here:`
 <br>
@@ -14,13 +14,13 @@ _Welcome to my GitHub page. Feel free to browse around, and fork around too if y
 <br>
 `✏️ Favorite languages:`
 <br>
-![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)
-![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)
+[![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)](https://dart.dev)
+[![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)](https://haskell.org)
+[![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 <br>
 `🎮 Can't wait for:`
 <br>
-![Steam Deck](https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck)
+[![Steam Deck](https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck)](https://steamdeck.com)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/imclerran?style=social)
