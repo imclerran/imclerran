@@ -4,11 +4,11 @@
 
 _Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like!_
 
-`I'm currently working on:`<br>
+`💻 I'm currently working on:`<br>
 [![Repo](https://img.shields.io/badge/Repo-Projectile%20Inferno-orange?style=flat)](https://github.com/imclerran/projectile-inferno)
 ![GitHub last commit](https://img.shields.io/github/last-commit/imclerran/projectile-inferno)
 <br>
-`Find my Resume here:`
+`📝 Find my Resume here:`
 <br>
 [![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
 <br>
