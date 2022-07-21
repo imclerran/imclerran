@@ -14,15 +14,12 @@ _Welcome to my GitHub page. Feel free to browse around, and fork around too if y
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)](https://haskell.org)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 <br>
-`📝 Find my Resume here:`
-<br>
-[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
-<br>
 `🎮 Can't wait for:`
 <br>
 [![Steam Deck](https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck)](https://steamdeck.com)
 
 
+[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)<br>
 ![GitHub followers](https://img.shields.io/github/followers/imclerran?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/imclerran?style=social)
 
@@ -42,6 +39,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+`📝 Find my Resume here:`
+<br>
+[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
+<br>
 
 [![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)
 -->
