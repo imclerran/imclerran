@@ -17,6 +17,11 @@ _Welcome to my GitHub page. Feel free to browse around, and fork around too if y
 ![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)
 ![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)
+<br>
+`🎮 Can't wait for:`
+<br>
+![Steam Deck](https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/imclerran?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/imclerran?style=social)
