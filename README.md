@@ -1,4 +1,4 @@
-### [![Typing SVG](https://bam-readme-typing-svg.herokuapp.com?color=%2357C3B5&duration=3000&vCenter=true&height=28&lines=%F0%9F%91%8B+Hi+there%2C+I'm+glad+you're+here!!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+glad+you're+here!!)](https://git.io/typing-svg)
 
 <!--### My name is Ian McLerran, and I'm glad you're here!-->
 
