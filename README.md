@@ -22,7 +22,7 @@ greet who = "Hello, " ++ who
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)](https://haskell.org)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 <br>
- `📚 Currently Learning:`
+ `📚 I am learning:`
 <br>
 [![Rust](https://img.shields.io/badge/-Rust-brown?logo=rust)](https://www.rust-lang.org)
 [![LLVM](https://img.shields.io/badge/-LLVM-darkgrey?logo=llvm)](https://llvm.org)
