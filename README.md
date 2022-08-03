@@ -13,6 +13,9 @@ _Welcome to my GitHub page. Feel free to browse around, and fork around too if y
 [![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)](https://dart.dev)
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)](https://haskell.org)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+ `📚 Currently Learning:`
+<br>
+[![Rust](https://img.shields.io/badge/-Rust-white?logo=rust )](https://www.rust-lang.org/)
 <br>
 `🎮 Can't wait for:`
 <br>
