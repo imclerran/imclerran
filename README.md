@@ -31,6 +31,9 @@ greet who = "Hello, " ++ who
 <br>
 [![Steam Deck](https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck)](https://steamdeck.com)
 
+```haskell
+{-- Thanks for stopping by! Check out my resume below: --}
+```
 
 [![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)<br>
 ![GitHub followers](https://img.shields.io/github/followers/imclerran?style=social)
@@ -43,7 +46,7 @@ greet who = "Hello, " ++ who
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on refactoring and updating my Projectile Inferno project.
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
