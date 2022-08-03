@@ -6,7 +6,6 @@ _Welcome to my GitHub page. Feel free to browse around, and fork around too if y
 
 ```haskell
 main :: IO () 
-
 main = putStrLn (greet "World") 
 
 greet :: String -> String
