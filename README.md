@@ -4,6 +4,15 @@
 
 _Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like!_
 
+```haskell
+main :: IO () 
+
+main = putStrLn (greet "World") 
+
+greet :: String -> String
+greet who = "Hello, " ++ who
+```
+
 `💻 I'm currently working on:`<br>
 [![Repo](https://img.shields.io/badge/Repo-Projectile%20Inferno-orange?style=flat)](https://github.com/imclerran/projectile-inferno)
 [![GitHub last commit](https://img.shields.io/github/last-commit/imclerran/projectile-inferno)](https://github.com/imclerran/projectile-inferno)
