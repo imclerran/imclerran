@@ -2,9 +2,9 @@
 
 <!--### My name is Ian McLerran, and I'm glad you're here!-->
 
-_Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like!_
-
 ```haskell
+{-- Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like! --}
+
 main :: IO () 
 main = putStrLn (greet "World") 
 
