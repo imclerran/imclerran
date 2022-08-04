@@ -11,10 +11,8 @@ main = putStrLn (hello "World")
 hello :: [Char] -> [Char]
 hello who = 
     flip (++) who
-    (foldr (:) 
-    [head (reverse (take 5 ['$','#'..]))] 
-    ((foldr (:) 
-    (take 2 (repeat 'l') ++ 
+    (foldr (:) [head (reverse (take 5 ['$','#'..]))] 
+    ((foldr (:) (take 2 (repeat 'l') ++ 
     filter (> 'n') (take 3 ['m'..])) 
     ((head (drop 7 (take 8 ['A'..'Z']))) : 
     [[' '..] !! 69])) ++ 
