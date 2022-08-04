@@ -14,10 +14,12 @@ hello who =
     (foldr (:) [head (reverse (take 5 ['$','#'..]))] 
     ((foldr (:) (take 2 (repeat 'l') ++ 
     filter (> 'n') (take 3 ['m'..])) 
-    ((head (drop 7 (take 8 ['A'..'Z']))) : 
-    [[' '..] !! 69])) ++ 
+    (flip (:) [[' '..] !! 69] 
+    (head (drop 7 (take 8 ['A'..'Z']))))) ++ 
     [(last (take 3 ['*'..]))]))
 ```
+
+
 
 `💻 I'm currently working on:`<br>
 [![Repo](https://img.shields.io/badge/Repo-Projectile%20Inferno-orange?style=flat)](https://github.com/imclerran/projectile-inferno)
