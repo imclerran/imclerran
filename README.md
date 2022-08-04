@@ -24,8 +24,8 @@ greet who = "Hello, " ++ who
 <br>
  `📚 I am learning:`
 <br>
-[![Rust](https://img.shields.io/badge/-Rust-brown?logo=rust)](https://www.rust-lang.org)
-[![LLVM](https://img.shields.io/badge/-LLVM-darkgrey?logo=llvm)](https://llvm.org)
+[![Rust](https://img.shields.io/badge/-Rust-993300?logo=rust)](https://www.rust-lang.org)
+[![LLVM](https://img.shields.io/badge/-LLVM-8c8c8c?logo=llvm)](https://llvm.org)
 <br>
 `🎮 Can't wait for:`
 <br>
