@@ -42,10 +42,11 @@ hello who =
 {-- Thanks for stopping by! Check out my resume below: --}
 ```
 
-[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)<br>
+[![My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)](https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1)<br>
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/imclerran?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/imclerran?style=social)
-
+-->
 
 
 <!--
