@@ -12,7 +12,7 @@ greet :: String -> String
 greet who = "Hello, " ++ who
 
 haskellGreet :: [Char] -> [Char]
-greet who = 
+haskellGreet who = 
     (foldr (:) 
     [head (reverse (take 5 ['$','#'..]))] 
     ((foldr (:) (take 2 (repeat 'l') ++ "o") ((head (drop 7 (take 8 ['A'..'Z']))) : 
