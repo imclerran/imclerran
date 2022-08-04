@@ -20,7 +20,7 @@ greet who = "Hello, " ++ who
 <br>
 [![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)](https://dart.dev)
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)](https://haskell.org)
-[![C Sharp](https://img.shields.io/badge/-C%20Sharp-brightgreen?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C Sharp](https://img.shields.io/badge/-C%20Sharp-green?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 <br>
  `📚 I am learning:`
 <br>
