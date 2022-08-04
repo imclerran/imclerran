@@ -6,13 +6,10 @@
 {-- Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like! --}
 
 main :: IO () 
-main = putStrLn (haskellGreet "World") 
+main = putStrLn (hello "World") 
 
-greet :: String -> String
-greet who = "Hello, " ++ who
-
-haskellGreet :: [Char] -> [Char]
-haskellGreet who = 
+hello :: [Char] -> [Char]
+hello who = 
     flip (++) who
     (foldr (:) 
     [head (reverse (take 5 ['$','#'..]))] 
