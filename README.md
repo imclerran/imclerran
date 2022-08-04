@@ -24,8 +24,8 @@ hello who =
 <br>
 `✏️ Favorite languages:`
 <br>
-[![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)](https://dart.dev)
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?logo=haskell)](https://haskell.org)
+[![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)](https://dart.dev)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-009900?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 <br>
  `📚 I am learning:`
