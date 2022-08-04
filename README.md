@@ -14,7 +14,7 @@ hello who =
     (foldr (:) 
     [head (reverse (take 5 ['$','#'..]))] 
     ((foldr (:) (take 2 (repeat 'l') ++ "o") ((head (drop 7 (take 8 ['A'..'Z']))) : 
-    [(['a'..'z'] !! 4)])) ++ 
+    [[' '..] !! 69])) ++ 
     [(last (take 3 ['*'..]))]))
 ```
 
