@@ -6,10 +6,19 @@
 {-- Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like! --}
 
 main :: IO () 
-main = putStrLn (greet "World") 
+main = putStrLn (haskellGreet "World") 
 
 greet :: String -> String
 greet who = "Hello, " ++ who
+
+haskellGreet :: [Char] -> [Char]
+greet who = 
+    (foldr (:) 
+    [head (reverse (take 5 ['$','#'..]))] 
+    ((foldr (:) (take 2 (repeat 'l') ++ "o") ((head (drop 7 (take 8 ['A'..'Z']))) : 
+    [(['a'..'z'] !! 4)])) ++ 
+    [(last (take 3 ['*'..]))])) ++ 
+    who
 ```
 
 `💻 I'm currently working on:`<br>
