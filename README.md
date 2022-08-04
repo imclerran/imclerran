@@ -13,12 +13,12 @@ greet who = "Hello, " ++ who
 
 haskellGreet :: [Char] -> [Char]
 haskellGreet who = 
+    flip (++) who
     (foldr (:) 
     [head (reverse (take 5 ['$','#'..]))] 
     ((foldr (:) (take 2 (repeat 'l') ++ "o") ((head (drop 7 (take 8 ['A'..'Z']))) : 
     [(['a'..'z'] !! 4)])) ++ 
-    [(last (take 3 ['*'..]))])) ++ 
-    who
+    [(last (take 3 ['*'..]))]))
 ```
 
 `💻 I'm currently working on:`<br>
