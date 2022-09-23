@@ -3,7 +3,7 @@
 ### My name is Ian McLerran, and I'm glad you're here!
 
 ```haskell
-{-- Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like! --}
+{-- Welcome to my GitHub page. Feel free to browse around, and fork too if ya like! --}
 
 main :: IO () 
 main = putStrLn (hello "World") 
