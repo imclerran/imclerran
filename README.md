@@ -1,6 +1,6 @@
-### [![Typing SVG][greeting_svg]][greeting_link]
+<!-- ### [![Typing SVG][greeting_svg]][greeting_link] -->
 
-<!--### My name is Ian McLerran, and I'm glad you're here!-->
+### My name is Ian McLerran, and I'm glad you're here!
 
 ```haskell
 {-- Welcome to my GitHub page. Feel free to browse around, and fork around too if ya like! --}
