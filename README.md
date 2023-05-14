@@ -31,10 +31,10 @@ hello who =
 <br>
  `📚 I am learning:`
 <br>
-[![Rust][rust_badge]][rust_link]
-[![LLVM][llvm_badge]][llvm_link]
+[![React][react_badge]][react_link]
+[![PyTorch][pytorch_badge]][pytorch_link]
 <br>
-`🎮 Can't wait for:`
+`🎮 Having fun with:`
 <br>
 [![Steam Deck][steamdeck_badge]][steamdeck_link]
 
@@ -62,6 +62,10 @@ hello who =
 [rust_link]: https://www.rust-lang.org
 [llvm_badge]: https://img.shields.io/badge/-LLVM-8c8c8c?logo=llvm
 [llvm_link]: https://llvm.org
+[pytorch_badge]: https://img.shields.io/badge/-PyTorch-blueviolet?logo=pytorch
+[pytorch_link]: https://pytorch.org
+[react_badge]: https://img.shields.io/badge/-React-%2323272f?logo=react
+[react_link]: https://react.dev
 [steamdeck_badge]: https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck
 [steamdeck_link]: https://steamdeck.com
 [resume_badge]: https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader
