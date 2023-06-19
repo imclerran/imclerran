@@ -66,7 +66,7 @@ hello who =
 [pytorch_link]: https://pytorch.org
 [react_badge]: https://img.shields.io/badge/-React-%2323272f?logo=react
 [react_link]: https://react.dev
-[steamdeck_badge]: https://img.shields.io/badge/-My%20Steam%20Deck!!!-darkblue?logo=steamdeck
+[steamdeck_badge]: https://img.shields.io/badge/-My%20Steam%20Deck!-darkblue?logo=steamdeck
 [steamdeck_link]: https://steamdeck.com
 [resume_badge]: https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader
 <!--&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1-->
