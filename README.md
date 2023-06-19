@@ -48,8 +48,8 @@ hello who =
 <!-- urls: -->
 [greeting_svg]: https://readme-typing-svg.herokuapp.com?height=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+glad+you're+here!!
 [greeting_link]: https://git.io/typing-svg
-[project_badge]: https://img.shields.io/badge/Repo-Projectile%20Inferno-orange?style=flat
-[project_link]: https://github.com/imclerran/projectile-inferno
+[project_badge]: https://img.shields.io/badge/Repo-Achiever%20App-orange?style=flat
+[project_link]: https://github.com/imclerran/achiever_app
 [last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/projectile-inferno
 [last_commit_link]: https://github.com/imclerran/projectile-inferno
 [haskell_badge]: https://img.shields.io/badge/-Haskell-purple?logo=haskell
