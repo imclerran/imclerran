@@ -50,7 +50,7 @@ hello who =
 [greeting_link]: https://git.io/typing-svg
 [project_badge]: https://img.shields.io/badge/Repo-Achiever%20App-orange?style=flat
 [project_link]: https://github.com/imclerran/achiever_app
-[last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/projectile-inferno
+[last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/achiever_app
 [last_commit_link]: https://github.com/imclerran/projectile-inferno
 [haskell_badge]: https://img.shields.io/badge/-Haskell-purple?logo=haskell
 [haskell_link]: https://www.haskell.org
