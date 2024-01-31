@@ -32,8 +32,8 @@ hello who =
 <br>
  `📚 I am learning:`
 <br>
+[![Django][django_badge]][django_link]
 [![React][react_badge]][react_link]
-[![PyTorch][pytorch_badge]][pytorch_link]
 <br>
 `🎮 Having fun with:`
 <br>
@@ -69,6 +69,8 @@ hello who =
 [pytorch_link]: https://pytorch.org
 [react_badge]: https://img.shields.io/badge/-React-%2323272f?logo=react
 [react_link]: https://react.dev
+[django_badge]: https://img.shields.io/badge/Django-0B4B33?logo=django
+[django_link]: https://djangoproject.com
 [steamdeck_badge]: https://img.shields.io/badge/-My%20Steam%20Deck!-darkblue?logo=steamdeck
 [steamdeck_link]: https://steamdeck.com
 [resume_badge]: https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader
