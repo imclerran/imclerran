@@ -21,7 +21,8 @@ hello who =
 
 `💻 I'm currently working on:`<br>
 [![Current project][project_badge]][project_link]
-[![GitHub last commit][last_commit_badge]][project_link]
+[![GitHub last commit][last_commit_badge]][last_commit_link]
+[![CI status][ci_status_badge]][ci_status_link]
 <br>
 `✏️ Favorite languages:`
 <br>
@@ -51,7 +52,9 @@ hello who =
 [project_badge]: https://img.shields.io/badge/Repo-Roc%20IsoDateTime-purple?style=flat
 [project_link]: https://github.com/imclerran/roc-isodatetime
 [last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-isodatetime
-[last_commit_link]: https://github.com/imclerran/projectile-inferno
+[last_commit_link]: https://github.com/imclerran/Roc-IsoDate/commits/main/
+[ci_status_badge]: https://img.shields.io/github/actions/workflow/status/imclerran/roc-isodate/ci.yml
+[ci_status_link]: https://github.com/imclerran/Roc-IsoDate/actions/workflows/ci.yml
 [haskell_badge]: https://img.shields.io/badge/-Haskell-purple?logo=haskell
 [haskell_link]: https://www.haskell.org
 [dart_badge]: https://img.shields.io/badge/-Dart-blue?logo=dart
