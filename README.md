@@ -63,6 +63,8 @@ hello who =
 [csharp_link]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [rust_badge]: https://img.shields.io/badge/-Rust-993300?logo=rust
 [rust_link]: https://www.rust-lang.org
+[roc_badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2FGcfjHKzb
+[roc_link]: https://roc-lang.org 
 [llvm_badge]: https://img.shields.io/badge/-LLVM-8c8c8c?logo=llvm
 [llvm_link]: https://llvm.org
 [pytorch_badge]: https://img.shields.io/badge/-PyTorch-blueviolet?logo=pytorch
