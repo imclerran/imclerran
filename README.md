@@ -33,7 +33,7 @@ hello who =
  `📚 I am learning:`
 <br>
 [![Django][django_badge]][django_link]
-[![React][react_badge]][react_link]
+[![Roc][roc_badge]][roc_link]
 <br>
 `🎮 Having fun with:`
 <br>
