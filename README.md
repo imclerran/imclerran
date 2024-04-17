@@ -77,5 +77,7 @@ hello who =
 [steamdeck_link]: https://steamdeck.com
 [resume_badge]: https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader
 <!--&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1-->
-[resume_link]: https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1
+[resume_link]: https://www.dropbox.com/scl/fi/semznffe5onqjlkg8x3i6/Resume.pdf?dl=1
+
+
 
