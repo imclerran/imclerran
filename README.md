@@ -26,6 +26,7 @@ hello who =
 <br>
 `✏️ Favorite languages:`
 <br>
+[![Roc][roc_badge]][roc_link]
 [![Haskell][haskell_badge]][haskell_link]
 [![Dart][dart_badge]][dart_link]
 [![C Sharp][csharp_badge]][csharp_link]
