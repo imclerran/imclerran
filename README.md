@@ -40,6 +40,7 @@ hello who =
 <br>
 [![Steam Deck][steamdeck_badge]][steamdeck_link]
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imclerran&theme=transparent&exclude_days=Sun%2CSat)](https://github.com/imclerran)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imclerran&layout=compact&count_private=true&theme=transparent)](https://github.com/imclerran)
 
 ```haskell
