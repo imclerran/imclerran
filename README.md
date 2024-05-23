@@ -40,7 +40,7 @@ hello who =
 <br>
 [![Steam Deck][steamdeck_badge]][steamdeck_link]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imclerran&layout=compact&count_private=true&theme=holi)](https://github.com/imclerran)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imclerran&layout=compact&count_private=true&theme=transparent)](https://github.com/imclerran)
 
 ```haskell
 {-- Thanks for stopping by! Check out my resume below: --}
