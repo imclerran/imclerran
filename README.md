@@ -55,7 +55,8 @@ hello who =
 [greeting_link]: https://git.io/typing-svg
 
 <!-- current project badges: -->
-[project_badge]: https://img.shields.io/badge/Repo-roc--start-6B3ADC?style=flat
+<!-- 6B3ADC -->
+[project_badge]: https://img.shields.io/badge/repo-roc--start-indigo?&style=flat 
 [project_link]: https://github.com/imclerran/roc-start
 [last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-start
 [last_commit_link]: https://github.com/imclerran/roc-start/commits/main/
@@ -74,7 +75,7 @@ hello who =
 [rust_badge]: https://img.shields.io/badge/-Rust-993300?logo=rust
 [rust_link]: https://www.rust-lang.org
 
-[roc_badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2FGcfjHKzb
+[roc_badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2FGcfjHKzb&color=indigo
 [roc_link]: https://roc-lang.org 
 
 [llvm_badge]: https://img.shields.io/badge/-LLVM-8c8c8c?logo=llvm
