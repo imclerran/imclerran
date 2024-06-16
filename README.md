@@ -24,7 +24,7 @@ hello who =
 [![GitHub last commit][last_commit_badge]][last_commit_link]
 [![CI status][ci_status_badge]][ci_status_link]
 <br>
-`✏️ Favorite languages:`
+`🛠️ Favorite languages:`
 <br>
 [![Roc][roc_badge]][roc_link]
 [![Haskell][haskell_badge]][haskell_link]
