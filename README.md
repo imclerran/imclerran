@@ -22,7 +22,6 @@ hello who =
 `💻 I'm currently working on:`<br>
 [![Current project][project_badge]][project_link]
 [![GitHub last commit][last_commit_badge]][last_commit_link]
-[![CI status][ci_status_badge]][ci_status_link]
 <br>
 `🛠️ Favorite languages:`
 <br>
@@ -57,12 +56,13 @@ hello who =
 
 <!-- current project badges: -->
 <!-- 6B3ADC -->
-[project_badge]: https://img.shields.io/badge/repo-roc--start-indigo?&style=flat 
-[project_link]: https://github.com/imclerran/roc-start
-[last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-start
-[last_commit_link]: https://github.com/imclerran/roc-start/commits/main/
+[project_badge]: https://img.shields.io/badge/repo-express--rest-0D121C?&style=flat 
+[project_link]: https://github.com/imclerran/express-rest
+[last_commit_badge]: https://img.shields.io/github/last-commit/imclerran/express-rest
+[last_commit_link]: https://github.com/imclerran/express-rest/commits/main/
 [ci_status_badge]: https://img.shields.io/github/actions/workflow/status/imclerran/roc-start/ci.yaml
 [ci_status_link]: https://github.com/imclerran/roc-start/actions/workflows/ci.yaml
+<!-- [![CI status][ci_status_badge]][ci_status_link] -->
 
 [haskell_badge]: https://img.shields.io/badge/-Haskell-purple?logo=haskell
 [haskell_link]: https://www.haskell.org
