@@ -33,8 +33,9 @@ hello who =
 <br>
  `📚 I am learning:`
 <br>
-[![Django][django_badge]][django_link]
-[![Roc][roc_badge]][roc_link]
+[![Node.js][nodejs_badge]][nodejs_link]
+[![Express][express_badge]][express_link]
+[![Sequelize][sequelize_badge]][sequelize_link]
 <br>
 `🎮 Having fun with:`
 <br>
@@ -92,6 +93,15 @@ hello who =
 
 [steamdeck_badge]: https://img.shields.io/badge/-My%20Steam%20Deck!-darkblue?logo=steamdeck
 [steamdeck_link]: https://steamdeck.com
+
+[nodejs_badge]: https://img.shields.io/badge/Node.js-0D121C?logo=nodedotjs&logoColor=5FA04E
+[nodejs_link]: https://nodejs.org
+
+[express_badge]: https://img.shields.io/badge/Express-1B1B1D?logo=express
+[express_link]: https://expressjs.com
+
+[sequelize_badge]: https://img.shields.io/badge/Sequelize-1B1B1D?logo=sequelize&logoColor=52B0E7
+[sequelize_link]: https://sequelize.org
 
 [resume_badge]: https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader
 <!--&link=https://www.dropbox.com/s/ylg918qc67kuype/Resume.pdf?dl=1-->
