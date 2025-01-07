@@ -23,6 +23,12 @@ hello who =
 [![Current project][project_badge]][project_link]
 [![GitHub last commit][last_commit_badge]][last_commit_link]
 <br>
+[![roc-isodate][roc_isodate_badge]][roc_isodate_link]
+[![Last commit][roc_isodate_commit_badge]][roc_isodate_commit_link]
+<br>
+[![roc-ai][roc_ai_badge]][roc_ai_link]
+[![Last commit][roc_ai_commit_badge]][roc_ai_commit_link]
+<br>
 `🛠️ Favorite languages:`
 <br>
 [![Roc][roc_badge]][roc_link]
@@ -62,6 +68,16 @@ hello who =
 [last_commit_link]: https://github.com/imclerran/express-rest/commits/main/
 [ci_status_badge]: https://img.shields.io/github/actions/workflow/status/imclerran/roc-start/ci.yaml
 [ci_status_link]: https://github.com/imclerran/roc-start/actions/workflows/ci.yaml
+
+[roc_isodate_badge]: https://img.shields.io/badge/repo-roc--isodate-indigo?&style=flat 
+[roc_isodate_link]: https://github.com/imclerran/roc-isodate
+[roc_isodate_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-isodate
+[roc_isodate_commit_link]: https://github.com/imclerran/roc-isodate/commits/main/
+
+[roc_ai_badge]: https://img.shields.io/badge/repo-roc--ai-indigo?&style=flat 
+[roc_ai_link]: https://github.com/imclerran/roc-ai
+[roc_ai_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-ai
+[roc_ai_commit_link]: https://github.com/imclerran/roc-ai/commits/main/
 <!-- [![CI status][ci_status_badge]][ci_status_link] -->
 
 [haskell_badge]: https://img.shields.io/badge/-Haskell-purple?logo=haskell
