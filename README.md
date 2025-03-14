@@ -20,8 +20,8 @@ hello who =
 ```
 
 `💻 I'm currently working on:`<br>
-[![roc-rx][roc_rx_badge]][roc_rx_link]
-[![Last commit][roc_rx_commit_badge]][roc_rx_commit_link]
+[![roc-start][roc_start_badge]][roc_start_link]
+[![Last commit][roc_start_commit_badge]][roc_start_commit_link]
 <br>
 `🛠️ Favorite languages:`
 <br>
@@ -77,6 +77,11 @@ hello who =
 [roc_rx_link]: https://github.com/imclerran/roc-rx
 [roc_rx_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-rx
 [roc_rx_commit_link]: https://github.com/imclerran/roc-rx/commits/main/
+
+[roc_start_badge]: https://img.shields.io/badge/repo-roc--start-indigo?&style=flat 
+[roc_start_link]: https://github.com/imclerran/roc-start
+[roc_start_commit_badge]: https://img.shields.io/github/last-commit/imclerran/roc-start
+[roc_start_commit_link]: https://github.com/imclerran/roc-start/commits/main/
 <!-- [![CI status][ci_status_badge]][ci_status_link] -->
 
 [haskell_badge]: https://img.shields.io/badge/-Haskell-purple?logo=haskell
